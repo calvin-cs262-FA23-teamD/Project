@@ -1,0 +1,11 @@
+Black #0a0e0f
+
+Dark Gray #1f2e2e
+
+White #f0f5f5
+
+Silver #e0ebeb
+
+Orange #ff6900
+
+Dark Orange (Unused) #a23600
