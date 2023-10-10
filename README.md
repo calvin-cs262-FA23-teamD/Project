@@ -14,5 +14,5 @@ Client Repo: https://github.com/calvin-cs262-FA23-teamD/Client
 
 Service Repo: https://github.com/calvin-cs262-FA23-teamD/Service
 
-![20230919_233427](https://github.com/calvin-cs262-FA23-teamD/Project/assets/113713028/ed265d2c-0761-44a6-8651-8565c25d166a)
+![example-cut](https://github.com/calvin-cs262-FA23-teamD/Project/assets/128867721/79260b92-fab4-4de1-9614-a610671962d0)
 Figure 1. An example of a simple piece with numerous time changes.
