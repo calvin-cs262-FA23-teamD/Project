@@ -1,4 +1,4 @@
-# The Beatle, A Customizable Tempo-Changing Metronome
+# The Beatle, A Customizable-Tempo-Changing Metronome
 
 The metronome is a common and widely used app, but for the majority of music where there is more than just one rhythmic meter, it is inadequate! All other metronome apps require the user to manually stop and reset the metronome every time the beat changes. Ironically, these very rhythmic transitions are where it is often very important to keep track of the rhythm and pace of a song. 
 
