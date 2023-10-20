@@ -14,6 +14,6 @@ Client Repo: https://github.com/calvin-cs262-FA23-teamD/Client
 
 Service Repo: https://github.com/calvin-cs262-FA23-teamD/Service
 
-![sheetMusic](https://github.com/calvin-cs262-FA23-teamD/Project/assets/128867721/79260b92-fab4-4de1-9614-a610671962d0 | width=100)
+<img src="https://github.com/calvin-cs262-FA23-teamD/Project/assets/128867721/79260b92-fab4-4de1-9614-a610671962d0" width="600"/>
 
 Figure 1. An example of a simple piece with numerous time changes.
