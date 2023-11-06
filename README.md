@@ -4,7 +4,7 @@ The metronome is a common and widely used app, but for the majority of music whe
 
 Our application, Beatle, is a metronome that will let users truly customize a song’s rhythm: allowing multiple meters, tempos, and accented beats to be combined and saved into one click track. Unlike other metronome apps, Beatle will make it possible to practice not just rhythm, but also **rhythm changes**! Additional features include a versatile counter that keeps track of measure numbers while the click track runs, tools that allow users to label and quickly navigate to specific parts of the song, looping that can be either integrated into the click track or temporarily applied for practice purposes, and a wide selection of sounds to choose from.
 
-Team: Emma Wang, Lexi Sharp, Caden Ziske, Abigail Musser
+Team: Emma Wang, Lexi Sharp, Caden Ziskie, Abigail Musser
 
 Domain Model: https://github.com/calvin-cs262-FA23-teamD/Project/blob/main/Domain-Model%202.5.jpg
 
