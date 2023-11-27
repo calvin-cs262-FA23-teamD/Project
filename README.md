@@ -6,13 +6,13 @@ Our application, Beatle, is a metronome that will let users truly customize a so
 
 Team: Emma Wang, Lexi Sharp, Caden Ziskie, Abigail Musser
 
-Domain Model: https://github.com/calvin-cs262-FA23-teamD/Project/blob/main/Domain-Model%202.5.jpg
+[Domain Model](https://github.com/calvin-cs262-FA23-teamD/Project/blob/main/Domain-Model%202.5.jpg)
 
-UI Model: https://github.com/calvin-cs262-FA23-teamD/Project/blob/main/UI%20Model%202.75.jpg
+[UI Model](https://github.com/calvin-cs262-FA23-teamD/Project/blob/main/UI%20Model%202.75.jpg)
 
 [Client Repo](https://github.com/calvin-cs262-FA23-teamD/Client)
 
-Service Repo: https://github.com/calvin-cs262-FA23-teamD/Service
+[Service Repo](https://github.com/calvin-cs262-FA23-teamD/Service)
 
 <img src="https://github.com/calvin-cs262-FA23-teamD/Project/assets/128867721/79260b92-fab4-4de1-9614-a610671962d0" width="450"/>
 
