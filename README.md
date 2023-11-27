@@ -8,7 +8,7 @@ Team: Emma Wang, Lexi Sharp, Caden Ziskie, Abigail Musser
 
 [Domain Model](https://github.com/calvin-cs262-FA23-teamD/Project/blob/main/Domain-Model%202.5.jpg)
 
-[UI Model: https://github.com/calvin-cs262-FA23-teamD/Project/blob/main/UI%20Model%202.75.jpg
+[UI Model](https://github.com/calvin-cs262-FA23-teamD/Project/blob/main/UI%20Model%202.75.jpg)
 
 [Client Repo](https://github.com/calvin-cs262-FA23-teamD/Client)
 
